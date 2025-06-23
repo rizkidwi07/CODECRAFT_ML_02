@@ -88,11 +88,11 @@ The five clusters can be interpreted as follows:
 
 -   **Cluster 1 (Standard)**: Customers with average annual income and average spending scores. They form a significant portion of the customer base.
 
--   **Cluster 2 (Careful)**: Customers with high annual income but low spending scores. These customers are cautious with their spending despite having the financial capacity.
+-   **Cluster 2 (Careful)**: Customers with high annual income and moderate to high spending scores. These customers are cautious with their spending despite having the financial capacity.
 
--   **Cluster 3 (Target)**: Customers with high annual income and high spending scores. This is often the most desirable segment for marketing efforts, as they are both willing and able to spend.
+-   **Cluster 3 (Target)**: Customers with low to medium annual income but high spending scores. This is often the most desirable segment for marketing efforts, as they are both willing and able to spend.
 
--   **Cluster 4 (Careless)**: Customers with low annual income but high spending scores. This group may be less financially stable but are frequent spenders.
+-   **Cluster 4 (Careless)**: Customers with high annual income and low spending scores. This group may be less financially stable but are frequent spenders.
 
 -   **Cluster 5 (Sensible)**: Customers with low annual income and low spending scores. They are budget-conscious and spend cautiously.
 
