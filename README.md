@@ -4,7 +4,7 @@
 
 This project performs customer segmentation on the "Mall Customers" dataset using the K-Means clustering algorithm. The goal is to group customers into distinct segments based on their annual income and spending habits. This type of analysis is valuable for businesses to better understand their customer base and tailor marketing strategies to different segments.
 
-The accompanying Python script, `customer_segmentation.py`, automates the entire process, from data loading and preparation to model training and visualization of the final clusters.
+The accompanying Python script, `clustering_customers_of_a_retail_store_with_kmeans.py`, automates the entire process, from data loading and preparation to model training and visualization of the final clusters.
 
 ## How to Run the Script
 
